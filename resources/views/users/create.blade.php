@@ -1,4 +1,4 @@
-@extents('layouts.app')
+@extends('layouts.app')
 @section('title', '注册')
 
 @section('content')
